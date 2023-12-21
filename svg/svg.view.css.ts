@@ -14,15 +14,13 @@ namespace $.$${
 		
 		Path_hi_text: {
 			stroke: `var(--mol_theme_focus)`,
-			// opacity: .8,
 			strokeLinecap: `square`,
 			strokeLinejoin: `miter`,
 		},
 		
-		// Path_lo_data: {
-		// 	opacity: .25,
-		// 	stroke: `currentColor`,
-		// },
+		Path_lo_data: {
+			stroke: `var(--mol_theme_card)`,
+		},
 		
 		Path_lo_text: {
 			stroke: `var(--mol_theme_focus)`,
