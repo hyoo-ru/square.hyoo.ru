@@ -2193,6 +2193,7 @@ declare namespace $ {
         height(): number;
         path(id: any): string;
         Path_lo_text(): $mol_svg_path;
+        Path_lo_data(): $mol_svg_path;
         Path_hi_text(): $mol_svg_path;
         Path_hi_data(): $mol_svg_path;
     }
