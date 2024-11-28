@@ -4,7 +4,8 @@ The best alternative to QR Code and DataMatrix.
 
 ## Examples
 
-> ![](https://i.imgur.com/2hlgrgD.png) ![](https://i.imgur.com/f65qKxg.png)
+> | ![](https://i.imgur.com/2hlgrgD.png) | ![](https://i.imgur.com/f65qKxg.png)
+> |--------------------------------------|-------------------------------------
 > https://square.hyoo.ru/
 
 ## Comparison
