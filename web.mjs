@@ -3942,7 +3942,7 @@ var $;
             display: 'block',
             position: 'relative',
             font: {
-                family: 'monospace',
+                family: 'inherit',
             },
             Numb: {
                 textAlign: 'right',
