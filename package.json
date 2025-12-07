@@ -202,7 +202,6 @@
     "$mol_picture"
   ],
   "dependencies": {
-    "internal": "*",
     "jsdom": "*"
   }
 }
