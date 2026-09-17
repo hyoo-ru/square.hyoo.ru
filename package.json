@@ -188,6 +188,7 @@
     "$mol_file_transaction",
     "$mol_string",
     "$mol_hotkey",
+    "$mol_hotkey2",
     "$mol_theme_auto",
     "$mol_lights",
     "$mol_state_arg",
