@@ -3352,6 +3352,12 @@ declare namespace $ {
 }
 
 declare namespace $ {
+    class $mol_media extends $mol_object2 {
+        static match(query: string, next?: boolean): boolean;
+    }
+}
+
+declare namespace $ {
     /** State of arguments like `#foo=bar/xxx` or `?foo=bar&xxx` */
     class $mol_state_arg extends $mol_object {
         prefix: string;
@@ -3382,12 +3388,6 @@ declare namespace $ {
         value(key: string, next?: string): string | null;
         sub(postfix: string): $mol_state_arg;
         link(next: Record<string, string | null>): string;
-    }
-}
-
-declare namespace $ {
-    class $mol_media extends $mol_object2 {
-        static match(query: string, next?: boolean): boolean;
     }
 }
 
